@@ -43,3 +43,18 @@ DNote is a text storage site where users can store plain text.
 Create Invoice Auomatically
 
 :file_folder: [Github Repositorie](https://github.com/smdedar/Automated-Invoice)
+:link: [Live Preview](https://smdedar.github.io/Automated-Invoice/)
+
+### :paperclip: AdBlock Detector
+---
+Detect user browser AdBlock and show warning disable the AdBlock.
+
+:file_folder: [Github Repositorie](https://github.com/smdedar/AdBlock-Detector)
+:link: [Live Preview](https://smdedar.github.io/AdBlock-Detector/)
+
+### :paperclip: TO DO List Browser Storage
+---
+To Do List Web Application Using Browser Local Storage
+
+:file_folder: [Github Repositorie](https://github.com/smdedar/ToDoList-LocalStorage)
+
