@@ -58,3 +58,29 @@ To Do List Web Application Using Browser Local Storage
 
 :file_folder: [Github Repository](https://github.com/smdedar/ToDoList-LocalStorage)
 
+### :paperclip: Routine Maker
+---
+Make Beautiful Class Routine
+
+:file_folder: [Github Repository](https://github.com/smdedar/RoutineMaker)
+:link: [Live Preview](https://smdedar.github.io/RoutineMaker/)
+
+### :paperclip: Tech Blog
+---
+A Tech Blogsite Develope using Laravel Framework
+
+:file_folder: [Github Repository](https://github.com/smdedar/blog_tech)
+
+### :paperclip: Search Any Movie
+---
+Get any movie info. Develope using TMDB API and Material Design
+
+:file_folder: [Github Repository](https://github.com/smdedar/DMDB)
+:link: [Live Preview](https://smdedar.github.io/DMDB/index2.html)
+
+### :paperclip: COC Info
+---
+Get clash of clan game clan info from clan ID. Developed using Clash of clan API and Material Design.
+
+:file_folder: [Github Repository](https://github.com/smdedar/clash-of-clan-Info)
+
