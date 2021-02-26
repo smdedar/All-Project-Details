@@ -84,3 +84,22 @@ Get clash of clan game clan info from clan ID. Developed using Clash of clan API
 
 :file_folder: [Github Repository](https://github.com/smdedar/clash-of-clan-Info)
 
+### :paperclip: Link Shortner
+---
+A fast and simple URL shortener is free URL shortener for transforming long,
+ugly links into nice and trackable short URLs.Developed Using Cutt.ly API
+
+:file_folder: [Github Repository](https://github.com/smdedar/Link-Shortener)
+:link: [Live Preview](https://smdedar.github.io/Link-Shortener/)
+
+### :paperclip: Blog Site & API
+---
+Blog site developed using Django and API for external use
+
+:file_folder: [Github Repository](https://github.com/smdedar/blogsite-django)
+
+### :paperclip: URL Shortner & QR Code
+
+URL Shortner and qr code using django
+
+:file_folder: [Github Repository](smdedar/link_shortner_django)
