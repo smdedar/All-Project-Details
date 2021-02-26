@@ -19,6 +19,7 @@ emergencies
 ### :paperclip: BDIX FTP Scanner
 ---
 Performing search for BDIX FTP server that support on network.
+
 :file_folder: [Github Repositorie](https://github.com/smdedar/bdftpscan)
 :link: [Live Preview](https://ftpscan.github.io/)
 
@@ -26,4 +27,19 @@ Performing search for BDIX FTP server that support on network.
 ### :paperclip: Github Trend to Telegram
 ---
 This a bot that fetch github trending repo and post it to Telegram channel
+
 :file_folder: [Github Repositorie](https://repl.it/@devded/GitHub-Trend-2O#main.py) 
+
+
+### :paperclip: DNote
+---
+DNote is a text storage site where users can store plain text.
+
+:file_folder: [Github Repositorie](https://github.com/smdedar/DNote)
+
+
+### :paperclip: Auomate Invoice
+---
+Create Invoice Auomatically
+
+:file_folder: [Github Repositorie](https://github.com/smdedar/Automated-Invoice)
