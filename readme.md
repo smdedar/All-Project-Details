@@ -99,7 +99,8 @@ Blog site developed using Django and API for external use
 :file_folder: [Github Repository](https://github.com/smdedar/blogsite-django)
 
 ### :paperclip: URL Shortner & QR Code
+---
 
-URL Shortner and qr code using django
+URL Shortner and generate qr code using django
 
-:file_folder: [Github Repository](smdedar/link_shortner_django)
+:file_folder: [Github Repository](https://github.com/smdedar/link_shortner_django)
