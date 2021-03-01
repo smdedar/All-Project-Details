@@ -109,5 +109,6 @@ URL Shortner and generate QR Code using django
 ---
 
 Search Movie and Get Info. Developed Using React and TMDB Movie API
+
 :file_folder: [Github Repository](https://github.com/smdedar/Search-Movie)
 :link: [Live Preview](https://nostalgic-jones-f00089.netlify.app/)
